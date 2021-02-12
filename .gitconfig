@@ -1,0 +1,12 @@
+[user]
+	email = ablil@protonmail.com
+	name = ablil
+[alias]
+    recommit = commit --amend --no-edit
+    logall = log --oneline --all --graph
+    short = status -s
+[credential]
+	helper = store
+[core]
+	editor = vi
+	excludesfile = /dotfiles/.gitignore_global

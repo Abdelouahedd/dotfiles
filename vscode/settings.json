@@ -1,0 +1,31 @@
+{
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.sideBar.location": "right",
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "workbench.iconTheme": "material-icon-theme",
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "editor.lineNumbers": "relative",
+    "editor.minimap.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.wordWrap": "wordWrapColumn",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.smoothScrolling": true,
+    "mdb.sendTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.tabSize": 2,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

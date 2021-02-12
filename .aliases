@@ -1,0 +1,16 @@
+# shell aliases
+alias du0="du -d 0 -h"
+alias la="ls -a"
+alias ll="ls -l"
+alias vi="vim"
+
+# ip
+alias ip="ip -c"
+alias ipb="ip -c -br"
+
+# python 
+alias pretty="python3 -mjson.tool"
+
+# Quick shortcut
+alias sysupdate="sudo dnf -y update && sudo dnf -y autoremove && sudo dnf -y remove --oldinstallonly"
+alias con="ping -c 2 google.com"
